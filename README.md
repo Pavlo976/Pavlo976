@@ -1,4 +1,4 @@
-# Hi! Im Paul! 
+# Hi! I'm Paul! 
 > Few sentences about me and my skills:
 - HTML
 - CSS (SASS too)
