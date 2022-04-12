@@ -1,4 +1,4 @@
-Hi! Few sentences about my skills:
+Hi! Few sentences about me and my skills:
 - HTML
 - CSS (SASS too)
 - Beginner Javascript (to near future I hope more advanced)
